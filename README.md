@@ -4,10 +4,13 @@ Parses any whatsapp group chat text file and returns set of stats.
 Usage:
 
 1) Download the folder
+
 2) Place whatsapp chat file in the folder. Rename the file to a simpler one such as group-name.txt
+
 3) In Terminal, navigate to the folder and run :
 
 ```
+npm install
 node app group-name.txt
 ```
 
