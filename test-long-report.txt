@@ -1,0 +1,46 @@
+
+*----- Group -----*
+Total messages: 16
+Total words: 69
+
+-----Boris Pedro-----
+Total active days: 907
+Total messages: 7
+Overall message contribution: 43.75% 
+Message contribution since joining: 43.75%
+Message Rate: 0 messages per day
+Total words: 38
+Overall word contribution: 55.07%
+Word contribution since joining: 55.07% 
+Word Rate: 0 words per day
+Total media posts: 1
+Percentage of media posts: 14.29%
+
+
+-----Tom-----
+Total active days: 907
+Total messages: 8
+Overall message contribution: 50.00% 
+Message contribution since joining: 66.67%
+Message Rate: 0 messages per day
+Total words: 25
+Overall word contribution: 36.23%
+Word contribution since joining: 46.30% 
+Word Rate: 0 words per day
+Total media posts: 0
+Percentage of media posts: 0.00%
+
+
+-----John Doe-----
+Total active days: 542
+Total messages: 1
+Overall message contribution: 6.25% 
+Message contribution since joining: 100.00%
+Message Rate: 0 messages per day
+Total words: 6
+Overall word contribution: 8.70%
+Word contribution since joining: 100.00% 
+Word Rate: 0 words per day
+Total media posts: 0
+Percentage of media posts: 0.00%
+
